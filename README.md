@@ -14,3 +14,13 @@ We also created a [syllabus of references used in the coursepack and suggested f
 You will find detailed installation tips [here](https://github.com/remolek/Wshop-ExplainableStylo/blob/main/installations.md)
 
 ### Useful links
+
+## 🔖 Citation
+If you find this package useful in your research, please cite one of these papers when referring to it: 
+<pre>
+Ochab, J. K., & Walkowiak, T. (2024). Implementing interpretable models in stylometric analysis. In Digital Humanities 2024: Conference Abstracts. Washington, D.C.: George Mason University (GMU).
+</pre>
+
+<pre>
+Argasiński, Jan K., Iwona Grabska-Gradzińska, Karol Przystalski, Jeremi K. Ochab, and Tomasz Walkowiak. ‘Stylometric Analysis of Large Language Model-Generated Commentaries in the Context of Medical Neuroscience’. In Computational Science – ICCS 2024, edited by Leonardo Franco, Clélia de Mulatier, Maciej Paszynski, Valeria V. Krzhizhanovskaya, Jack J. Dongarra, and Peter M. A. Sloot, 281–95. Cham: Springer Nature Switzerland, 2024. https://doi.org/10.1007/978-3-031-63775-9_20.
+</pre>
