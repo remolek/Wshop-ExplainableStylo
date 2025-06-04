@@ -19,7 +19,7 @@ You can also clone or download the package from here and follow the installation
 
 ## Useful links
 
-### 🔖 Citation
+## 🔖 Citation
 If you find this package useful in your research, please cite one of these papers when referring to it: 
 <pre>
 Ochab, J. K., & Walkowiak, T. (2024). Implementing interpretable models in stylometric analysis. In Digital Humanities 2024: Conference Abstracts. Washington, D.C.: George Mason University (GMU).
