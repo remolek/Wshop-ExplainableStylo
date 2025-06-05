@@ -1,0 +1,1 @@
+- the original [spaCy cheat sheet](https://github.com/explosion/assets/blob/main/spaCy/spaCy-cheat-sheet.pdf)
