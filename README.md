@@ -13,11 +13,22 @@ You might consider reading:
  and making yourself comfortable with Google Colab.
 
 ## Installations
+### 🚀 Google Colab
 The primary way of running the workshop will be via Google Colab notebook: [almost here]().
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/remolek/Wshop-ExplainableStylo/blob/main/notebooks/ExplainableStylo_Colab_Template.ipynb)
 
-You can also clone or download the package from here and follow the installation tips [here](https://github.com/remolek/Wshop-ExplainableStylo/blob/main/installations.md)
+Click the badge above to open the interactive notebook in **Google Colab**, where you can:
+- Clone, import, and run the `cl_explainable_stylo` package
+- Load text files from `example1/`, `example2/`
+- Experiment...
+
+### 🖥️ Run Locally 
+If you prefer to work offline or on your local machine,
+you can also clone or download the package from here and follow the installation tips [here](https://github.com/remolek/Wshop-ExplainableStylo/blob/main/installations.md)
 
 ## Useful links
+
+...
 
 ## 🔖 Citation
 If you find this package useful in your research, please cite one of these papers when referring to it: 
