@@ -1,0 +1,8 @@
+spacy>=3.0.0
+lightgbm
+shap
+scikit-learn
+tqdm
+matplotlib
+pandas
+numpy
