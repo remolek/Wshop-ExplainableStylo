@@ -1,0 +1,12 @@
+{"experiment_name":"test","labels": ["filename", "class", "author"],
+"files":
+	{"filename": ["drive/MyDrive/cl_explainable_stylo/corpus/dukaj/Dukaj.txt","drive/MyDrive/cl_explainable_stylo/corpus/zagórska/Zagórska.txt"],
+	"class": ["dukaj","zagórska"],
+	"author": ["Dukaj","Zagórska"]},
+	"preproc_scheme": null,
+	"feature_scheme": null,
+	"subsample_scheme": null,
+	"classifier_params": null,
+	"cv_scheme": null
+
+}
