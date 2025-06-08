@@ -1,6 +1,6 @@
 {"experiment_name":"example1","labels": ["filename", "class", "author"],
 "files":
-	{"filename": ["dukaj/Dukaj.txt","zagórska/Zagórska.txt"],
+	{"filename": ["example1/dukaj/Dukaj.txt","example1/zagórska/Zagórska.txt"],
 	"class": ["dukaj","zagórska"],
 	"author": ["Dukaj","Zagórska"]},
 	"preproc_scheme": null,
