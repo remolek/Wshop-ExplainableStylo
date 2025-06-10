@@ -14,8 +14,7 @@ You might consider reading:
 
 ## Installations
 ### 🚀 Google Colab
-The primary way of running the workshop will be via Google Colab notebook: [almost here]().
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/remolek/Wshop-ExplainableStylo/blob/main/notebooks/ExplainableStylo_Colab_Template.ipynb)
+The primary way of running the workshop will be via Google Colab notebook, which is here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/remolek/Wshop-ExplainableStylo/blob/main/notebooks/ExplainableStylo_Colab_Template.ipynb)
 
 
 Click the badge above to open the interactive notebook in **Google Colab**, where you can:
