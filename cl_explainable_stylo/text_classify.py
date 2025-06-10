@@ -508,7 +508,11 @@ class CVExplanations:
         self.groups = groups
         # NP. ŚREDNIA PO AUTORZE
         for k in set(groups):
-            df_per_obs = pd.DataFrame([self.shap_cv[i][j].values[:,0] for i in np.where(groups == k)[0] for j in range(self.n_repeats)])
+            if len(self.shap_cv[i][0].values.shape)>1:
+                df_per_obs = pd.DataFrame([self.shap_cv[i][j].values[:,0] for i in np.where(groups == k)[0] for j in range(self.n_repeats)])
+            else:
+                df_per_obs = pd.DataFrame([self.shap_cv[i][j].values for i in np.where(groups == k)[0] for j in range(self.n_repeats)])
+               
             self.shap_group.append(df_per_obs.mean().values)
             self.shap_group_base.append(np.average([self.shap_cv[i][j].base_values[0] for i in np.where(groups == k)[0] for j in range(self.n_repeats)]))
         self.shap_group = np.array(self.shap_group)
