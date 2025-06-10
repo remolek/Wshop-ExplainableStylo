@@ -483,7 +483,11 @@ class CVExplanations:
         self.shap_ranges = []
             
         for i in self.size:
-            df_per_obs = pd.DataFrame.from_dict({j:self.shap_cv[i][j].values[:,0] for j in range(self.n_repeats)})
+            if len(self.shap_cv[i][j].values.shape)>1:
+                df_per_obs = pd.DataFrame.from_dict({j:self.shap_cv[i][j].values[:,0] for j in range(self.n_repeats)})
+            else
+                df_per_obs = pd.DataFrame.from_dict({j:self.shap_cv[i][j].values for j in range(self.n_repeats)})
+                            
             # Get relevant statistics for every sample 
             self.shap_average.append(df_per_obs.mean(axis=1).values) 
             self.shap_average_base.append(np.average([self.shap_cv[i][j].base_values[0] for j in range(self.n_repeats)]))
