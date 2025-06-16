@@ -39,3 +39,9 @@ Ochab, J. K., & Walkowiak, T. (2024). Implementing interpretable models in stylo
 <pre>
 Argasiński, Jan K., Iwona Grabska-Gradzińska, Karol Przystalski, Jeremi K. Ochab, and Tomasz Walkowiak. ‘Stylometric Analysis of Large Language Model-Generated Commentaries in the Context of Medical Neuroscience’. In Computational Science – ICCS 2024, edited by Leonardo Franco, Clélia de Mulatier, Maciej Paszynski, Valeria V. Krzhizhanovskaya, Jack J. Dongarra, and Peter M. A. Sloot, 281–95. Cham: Springer Nature Switzerland, 2024. https://doi.org/10.1007/978-3-031-63775-9_20.
 </pre>
+
+## Acknowledgments
+
+Research financed by the European Regional Development Fund as a part of the 2014–2020 Smart Growth Operational Programme, CLARIN—Common Language Resources and Technology Infrastructure, project no. POIR.04.02.00-00C002/19.
+European Funds for Smart Economy, FENG program, CLARIN – Common Language Resourcesand Technology Infrastructure, project no.FENG.02.04-IP.040004/24-00.
+![image](https://github.com/user-attachments/assets/b2546b89-0b10-445b-886d-8c7baa240344)
