@@ -41,7 +41,7 @@ Argasiński, Jan K., Iwona Grabska-Gradzińska, Karol Przystalski, Jeremi K. Och
 
 ## 📪 Contact
 Jeremi Ochab jeremi.ochab@uj.edu.pl\
-Tomasz Walkowiak tomasz.walkowiak@pwr.edu.pl\
+Tomasz Walkowiak tomasz.walkowiak@pwr.edu.pl
 
 ## Acknowledgments
 
