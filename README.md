@@ -8,9 +8,10 @@ We also created a [syllabus of references used in the coursepack and suggested f
 -->
 You might consider reading:
 
-- Megan S. Kane, "Corpus Analysis with spaCy," Programming Historian 12 (2023), [https://doi.org/10.46430/phen0113](https://doi.org/10.46430/phen0113).
-
- and making yourself comfortable with Google Colab.
+- Megan S. Kane, "Corpus Analysis with spaCy," Programming Historian 12 (2023), [https://doi.org/10.46430/phen0113](https://doi.org/10.46430/phen0113)
+to understand the data structure and capabilities of spaCy
+- [Google Colab Tutorial](https://www.tutorialspoint.com/google_colab/index.htm) or a similar resource
+to make yourself comfortable with Google Colab.
 
 ## 🔨 Installations
 ### 🚀 Google Colab
