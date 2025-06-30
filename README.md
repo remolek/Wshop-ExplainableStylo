@@ -43,7 +43,7 @@ Argasiński, Jan K., Iwona Grabska-Gradzińska, Karol Przystalski, Jeremi K. Och
 Jeremi Ochab jeremi.ochab@uj.edu.pl\
 Tomasz Walkowiak tomasz.walkowiak@pwr.edu.pl
 
-## Acknowledgments
+## 🪙 Acknowledgments
 
 Research financed by the European Regional Development Fund as a part of the 2014–2020 Smart Growth Operational Programme, CLARIN—Common Language Resources and Technology Infrastructure, project no. POIR.04.02.00-00C002/19.
 European Funds for Smart Economy, FENG program, CLARIN – Common Language Resourcesand Technology Infrastructure, project no.FENG.02.04-IP.040004/24-00.
